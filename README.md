@@ -1,12 +1,14 @@
 # **Mi Primera Página**
 Este repositorio contiene el desarrollo del taller diagnóstico de Introducción a las Aplicaciones Web, en el cual se aplican conceptos básicos de HTML, CSS y JavaScript.
 El objetivo principal es demostrar conocimientos previos sobre el desarrollo web y el uso de herramientas básicas.
+
 ***
 
 ## Parte Teórica
 
 ### 1. ¿Qué es HTML y cuál es su función en la web?
 #### **HTML** es un lenguaje de marcado que se utiliza para crear la estructura de una página web. Permite organizar el contenido como textos, imágenes, enlaces y otros elementos que se muestran en el navegador.
+
 ---
 
 ### 2. ¿Qué es una etiqueta HTML y menciona las más comunes?
@@ -139,3 +141,5 @@ Se puede acceder a ellas de las siguientes formas:
 ### 15. ¿Qué información se puede obtener del panel "Network" y por qué es importante?
 
 #### El panel **Network** permite ver las peticiones de red, los archivos que se cargan y los tiempos de respuesta, lo cual es importante para analizar el rendimiento de una página web.
+
+---
